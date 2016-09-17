@@ -26,7 +26,7 @@ import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.math.Rectangle;
 import com.badlogic.gdx.math.Vector2;
 import com.pathtomani.common.Const;
-import com.pathtomani.common.GameOptions;
+import com.pathtomani.managers.GameOptions;
 import com.pathtomani.ManiApplication;
 import com.pathtomani.gfx.TextureManager;
 import com.pathtomani.gfx.ManiColor;
