@@ -22,7 +22,7 @@ import com.badlogic.gdx.math.Vector2;
 import com.pathtomani.ManiApplication;
 import com.pathtomani.screens.controllers.*;
 import com.pathtomani.common.Const;
-import com.pathtomani.common.GameOptions;
+import com.pathtomani.managers.GameOptions;
 import com.pathtomani.gfx.ManiColor;
 
 import java.util.ArrayList;
