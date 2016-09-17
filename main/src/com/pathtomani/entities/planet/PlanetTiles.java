@@ -21,7 +21,7 @@ import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.math.Vector2;
 import com.pathtomani.common.ManiMath;
 import com.pathtomani.gfx.TextureManager;
-import com.pathtomani.game.DebugOptions;
+import com.pathtomani.managers.DebugOptions;
 import com.pathtomani.game.PathLoader;
 
 import java.util.ArrayList;
