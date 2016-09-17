@@ -16,7 +16,7 @@
 
 package com.pathtomani.screens.game;
 
-import com.pathtomani.common.GameOptions;
+import com.pathtomani.managers.GameOptions;
 import com.pathtomani.ManiApplication;
 import com.pathtomani.game.ManiGame;
 import com.pathtomani.entities.item.ItemContainer;
