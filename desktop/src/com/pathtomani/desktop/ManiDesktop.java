@@ -18,10 +18,10 @@ package com.pathtomani.desktop;
 import com.badlogic.gdx.Files;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import com.pathtomani.common.GameOptions;
+import com.pathtomani.managers.GameOptions;
 import com.pathtomani.ManiApplication;
-import com.pathtomani.common.ManiFileReader;
-import com.pathtomani.game.DebugOptions;
+import com.pathtomani.managers.ManiFileReader;
+import com.pathtomani.managers.DebugOptions;
 import com.pathtomani.soundtest.SoundTestListener;
 import org.terasology.crashreporter.CrashReporter;
 
