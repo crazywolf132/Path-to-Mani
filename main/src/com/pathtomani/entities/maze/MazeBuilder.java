@@ -21,7 +21,7 @@ import com.pathtomani.common.Const;
 import com.pathtomani.common.ManiMath;
 import com.pathtomani.game.Faction;
 import com.pathtomani.game.ManiGame;
-import com.pathtomani.game.ShipConfig;
+import com.pathtomani.managers.ShipConfig;
 import com.pathtomani.managers.input.AiPilot;
 import com.pathtomani.managers.input.Pilot;
 import com.pathtomani.managers.input.StillGuard;
