@@ -20,6 +20,8 @@ import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.math.Vector2;
 import com.pathtomani.common.ManiMath;
 import com.pathtomani.game.*;
+import com.pathtomani.managers.DebugOptions;
+import com.pathtomani.managers.ShipConfig;
 import com.pathtomani.managers.dra.Dra;
 import com.pathtomani.managers.dra.FarDras;
 import com.pathtomani.entities.maze.Maze;
