@@ -25,6 +25,7 @@ import com.pathtomani.common.Const;
 import com.pathtomani.gfx.ManiColor;
 import com.pathtomani.common.ManiMath;
 import com.pathtomani.entities.planet.Planet;
+import com.pathtomani.managers.DebugOptions;
 import com.pathtomani.screens.game.MainScreen;
 import com.pathtomani.entities.ship.ManiShip;
 
