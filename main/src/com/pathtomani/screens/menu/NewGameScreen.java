@@ -17,11 +17,11 @@
 package com.pathtomani.screens.menu;
 
 import com.pathtomani.ManiApplication;
-import com.pathtomani.game.SaveManager;
+import com.pathtomani.managers.SaveManager;
 import com.pathtomani.screens.controllers.ManiInputManager;
 import com.pathtomani.screens.controllers.ManiUiScreen;
 import com.pathtomani.screens.controllers.UiDrawer;
-import com.pathtomani.common.GameOptions;
+import com.pathtomani.managers.GameOptions;
 import com.pathtomani.screens.controllers.ManiUiControl;
 
 import java.util.ArrayList;
