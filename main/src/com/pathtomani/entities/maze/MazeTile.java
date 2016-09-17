@@ -18,7 +18,7 @@ package com.pathtomani.entities.maze;
 
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.math.Vector2;
-import com.pathtomani.game.DebugOptions;
+import com.pathtomani.managers.DebugOptions;
 import com.pathtomani.game.PathLoader;
 import com.pathtomani.entities.asteroid.AsteroidBuilder;
 
