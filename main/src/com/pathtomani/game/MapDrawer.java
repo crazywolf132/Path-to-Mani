@@ -24,6 +24,7 @@ import com.pathtomani.common.ManiMath;
 import com.pathtomani.entities.maze.Maze;
 import com.pathtomani.entities.planet.*;
 import com.pathtomani.entities.ship.FarShip;
+import com.pathtomani.managers.DebugOptions;
 import com.pathtomani.screens.controllers.UiDrawer;
 import com.pathtomani.common.Const;
 import com.pathtomani.gfx.TextureManager;
