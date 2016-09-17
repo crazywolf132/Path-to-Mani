@@ -23,7 +23,7 @@ import com.pathtomani.ManiApplication;
 import com.pathtomani.game.ManiGame;
 import com.pathtomani.screens.controllers.*;
 import com.pathtomani.common.Const;
-import com.pathtomani.common.GameOptions;
+import com.pathtomani.managers.GameOptions;
 import com.pathtomani.gfx.ManiColor;
 import com.pathtomani.entities.item.ItemContainer;
 import com.pathtomani.entities.item.ManiItem;
