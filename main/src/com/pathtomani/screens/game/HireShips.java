@@ -17,11 +17,11 @@
 package com.pathtomani.screens.game;
 
 import com.badlogic.gdx.math.Vector2;
-import com.pathtomani.common.GameOptions;
+import com.pathtomani.managers.GameOptions;
 import com.pathtomani.ManiApplication;
 import com.pathtomani.common.ManiMath;
 import com.pathtomani.game.ManiGame;
-import com.pathtomani.game.ShipConfig;
+import com.pathtomani.managers.ShipConfig;
 import com.pathtomani.managers.input.AiPilot;
 import com.pathtomani.entities.item.ItemContainer;
 import com.pathtomani.entities.item.MercItem;
