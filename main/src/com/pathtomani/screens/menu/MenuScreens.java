@@ -16,7 +16,7 @@
 
 package com.pathtomani.screens.menu;
 
-import com.pathtomani.common.GameOptions;
+import com.pathtomani.managers.GameOptions;
 import com.pathtomani.gfx.TextureManager;
 import com.pathtomani.screens.controllers.ManiLayouts;
 
