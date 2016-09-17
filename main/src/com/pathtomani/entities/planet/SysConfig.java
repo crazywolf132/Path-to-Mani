@@ -17,7 +17,7 @@
 package com.pathtomani.entities.planet;
 
 import com.pathtomani.entities.item.TradeConfig;
-import com.pathtomani.game.ShipConfig;
+import com.pathtomani.managers.ShipConfig;
 import com.pathtomani.managers.chunk.SpaceEnvConfig;
 
 import java.util.ArrayList;
