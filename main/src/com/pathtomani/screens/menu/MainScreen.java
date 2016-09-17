@@ -25,10 +25,10 @@ import com.pathtomani.managers.sound.MusicManager;
 import com.pathtomani.screens.controllers.ManiInputManager;
 import com.pathtomani.screens.controllers.ManiUiScreen;
 import com.pathtomani.screens.controllers.UiDrawer;
-import com.pathtomani.common.GameOptions;
+import com.pathtomani.managers.GameOptions;
 import com.pathtomani.gfx.TextureManager;
 import com.pathtomani.gfx.ManiColor;
-import com.pathtomani.game.DebugOptions;
+import com.pathtomani.managers.DebugOptions;
 import com.pathtomani.screens.controllers.ManiUiControl;
 
 import java.util.ArrayList;
