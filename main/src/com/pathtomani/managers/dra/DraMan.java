@@ -24,6 +24,7 @@ import com.badlogic.gdx.utils.Array;
 import com.badlogic.gdx.utils.OrderedMap;
 import com.pathtomani.common.DebugCol;
 import com.pathtomani.game.*;
+import com.pathtomani.managers.DebugOptions;
 
 import java.util.*;
 
