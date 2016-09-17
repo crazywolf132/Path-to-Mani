@@ -17,7 +17,7 @@
 package com.pathtomani.screens.game;
 
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
-import com.pathtomani.common.GameOptions;
+import com.pathtomani.managers.GameOptions;
 import com.pathtomani.ManiApplication;
 import com.pathtomani.entities.gun.GunItem;
 import com.pathtomani.entities.ship.ManiShip;
