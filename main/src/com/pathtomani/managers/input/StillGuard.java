@@ -19,7 +19,7 @@ package com.pathtomani.managers.input;
 import com.badlogic.gdx.math.Vector2;
 import com.pathtomani.common.ManiMath;
 import com.pathtomani.game.ManiGame;
-import com.pathtomani.game.ShipConfig;
+import com.pathtomani.managers.ShipConfig;
 import com.pathtomani.entities.planet.PlanetBind;
 import com.pathtomani.entities.ship.hulls.HullConfig;
 import com.pathtomani.common.Const;
