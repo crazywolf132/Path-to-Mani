@@ -18,7 +18,7 @@ package com.pathtomani.managers.files;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.files.FileHandle;
-import com.pathtomani.game.DebugOptions;
+import com.pathtomani.managers.DebugOptions;
 
 /**
  * Singleton class that can provide file handles to various directories.
