@@ -20,7 +20,7 @@ import com.pathtomani.ManiApplication;
 import com.pathtomani.game.ManiGame;
 import com.pathtomani.screens.controllers.ManiInputManager;
 import com.pathtomani.screens.controllers.UiDrawer;
-import com.pathtomani.common.GameOptions;
+import com.pathtomani.managers.GameOptions;
 import com.pathtomani.entities.item.ItemContainer;
 import com.pathtomani.entities.item.ManiItem;
 import com.pathtomani.entities.ship.ManiShip;
