@@ -17,7 +17,7 @@
 package com.pathtomani.screens.game;
 
 import com.badlogic.gdx.math.Rectangle;
-import com.pathtomani.common.GameOptions;
+import com.pathtomani.managers.GameOptions;
 import com.pathtomani.ManiApplication;
 import com.pathtomani.gfx.ManiColor;
 import com.pathtomani.game.ManiGame;
