@@ -20,6 +20,7 @@ import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.physics.box2d.Body;
 import com.pathtomani.common.ManiMath;
+import com.pathtomani.managers.DebugOptions;
 import com.pathtomani.managers.files.HullConfigManager;
 import com.pathtomani.game.*;
 import com.pathtomani.entities.maze.Maze;
