@@ -22,7 +22,7 @@ import com.badlogic.gdx.math.Vector2;
 import com.pathtomani.gfx.DevTextureProvider;
 import com.pathtomani.common.DebugCol;
 import com.pathtomani.gfx.ManiColor;
-import com.pathtomani.game.DebugOptions;
+import com.pathtomani.managers.DebugOptions;
 import com.pathtomani.game.ManiGame;
 import com.pathtomani.screens.controllers.FontSize;
 import com.pathtomani.screens.controllers.UiDrawer;
