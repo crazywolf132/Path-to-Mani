@@ -24,7 +24,7 @@ import com.pathtomani.entities.item.EngineItem;
 import com.pathtomani.entities.ship.hulls.HullConfig;
 import com.pathtomani.screens.controllers.ManiInputManager;
 import com.pathtomani.screens.controllers.UiDrawer;
-import com.pathtomani.common.GameOptions;
+import com.pathtomani.managers.GameOptions;
 import com.pathtomani.entities.item.ItemContainer;
 import com.pathtomani.entities.item.ShipItem;
 import com.pathtomani.entities.item.ManiItem;
