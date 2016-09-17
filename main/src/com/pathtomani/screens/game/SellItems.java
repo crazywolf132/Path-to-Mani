@@ -19,7 +19,7 @@ package com.pathtomani.screens.game;
 import com.pathtomani.game.ManiGame;
 import com.pathtomani.screens.controllers.ManiInputManager;
 import com.pathtomani.screens.controllers.UiDrawer;
-import com.pathtomani.common.GameOptions;
+import com.pathtomani.managers.GameOptions;
 import com.pathtomani.ManiApplication;
 import com.pathtomani.entities.item.ItemContainer;
 import com.pathtomani.entities.item.ManiItem;
