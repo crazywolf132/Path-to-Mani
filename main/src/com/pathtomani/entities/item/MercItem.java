@@ -18,7 +18,7 @@ package com.pathtomani.entities.item;
 
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.pathtomani.game.ManiGame;
-import com.pathtomani.game.ShipConfig;
+import com.pathtomani.managers.ShipConfig;
 
 public class MercItem implements ManiItem {
   private final ShipConfig myConfig;
