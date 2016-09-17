@@ -18,7 +18,7 @@ package com.pathtomani.entities.planet;
 
 import com.badlogic.gdx.math.Vector2;
 import com.pathtomani.common.ManiMath;
-import com.pathtomani.game.DebugOptions;
+import com.pathtomani.managers.DebugOptions;
 import com.pathtomani.game.ManiNames;
 import com.pathtomani.entities.maze.Maze;
 import com.pathtomani.entities.maze.MazeConfigs;
