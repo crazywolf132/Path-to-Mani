@@ -29,6 +29,7 @@ import com.pathtomani.entities.ship.ManiShip;
 import com.pathtomani.entities.ship.hulls.GunSlot;
 import com.pathtomani.entities.ship.hulls.Hull;
 import com.pathtomani.entities.ship.hulls.HullConfig;
+import com.pathtomani.managers.ShipConfig;
 
 import java.util.Iterator;
 import java.util.List;
