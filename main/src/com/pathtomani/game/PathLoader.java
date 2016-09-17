@@ -25,6 +25,7 @@ import com.badlogic.gdx.physics.box2d.*;
 import com.badlogic.gdx.utils.JsonReader;
 import com.badlogic.gdx.utils.JsonValue;
 import com.pathtomani.common.ManiMath;
+import com.pathtomani.managers.DebugOptions;
 import com.pathtomani.managers.files.HullConfigManager;
 import com.pathtomani.managers.dra.Dra;
 import com.pathtomani.managers.dra.RectSprite;
